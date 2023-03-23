@@ -1,0 +1,71 @@
+Introduction to Next.js
+
+What is Next.js?
+Why use Next.js?
+What makes Next.js unique, compared to React?
+How to Install Next.js?
+Running Node.js Code
+
+Node JS Review
+
+How to Install Node JS
+ESM
+Creating Custom Modules https://www.digitalocean.com/community/tutorials/how-to-create-a-node-js-module
+global keyword
+NPM
+The Usage of the "Import" Keyword
+
+Installing Packages
+Global Installation
+Local Installation
+Using Installed Packages
+Semantic Versioning
+Updating Packages
+Creaing and Publishing
+Running Scripts
+npx
+Error Handling in Node.js
+
+Type of Errors — https://nodejs.org/api/errors.html#errors
+JavaScript Errors — https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects#error_objects
+System Errors
+User Specified Errors
+Assertion Errors
+Call Stack and Stack Trace
+Handling Async Errors
+Catching Uncaught Exceptions
+Debugging Node.js [Advanced] https://nodejs.org/en/docs/guides/debugging-getting-started/
+Asynchronous Programming [Intermediate]
+
+React Installation
+create-next-app
+Installing the React Dev Tools
+
+Basic Debugging
+console.log()
+npm run dev and what it means for Next.js
+
+What a Basic Page Looks Like
+export default function()
+return()
+React vs Next JS on Running Your Code
+
+Routing
+Dynamic Content with Routing
+Prefetching
+Using next/router
+getInitialProps()
+API Routing
+Server Side vs Client Side
+
+CSS in Next.JS
+styled-jsx
+Custom Tags
+Wrapper Tags
+
+Deployment
+package.json scripts
+Vercel and how it works
+
+Lazy loading modules
+App Bundles
